@@ -60,7 +60,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"BerlinOfficeEG.json"
+                 "value":".\/BerlinOfficeEG.json"
                 }],
          "type":"tilelayer",
          "visible":true,
