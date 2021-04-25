@@ -60,7 +60,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"_\/global\/lieblingswelt.github.io\/workadventure-maps-lieblingswelt\/maps\/BerlinOfficeEG.json"
+                 "value":"BerlinOfficeEG.json"
                 }],
          "type":"tilelayer",
          "visible":true,
